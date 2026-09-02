@@ -1,6 +1,6 @@
 # 🛒 Big Basket Yearly Sales & Performance Dashboard
 
-![Dashboard Preview](Big%20Basket%20yearly%20sale%20and%20report.png)
+![Dashboard Preview](Big_Basket_yearly_sale_and_report.png)
 
 ## 📊 Project Overview
 
