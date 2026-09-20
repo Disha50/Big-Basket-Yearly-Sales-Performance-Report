@@ -148,6 +148,7 @@ From the dashboard, several useful observations can be made:
 ```text
 Big-Basket-Sales-Dashboard/
 │
-├── Big Basket yearly sale and report.png
+├── Big_Basket_sale_and_report.png
 ├── Big Basket Sales Dashboard.xlsx
+|── Bigbasket Store Data Analysis DASHBOARD.xlsx
 └── README.md
